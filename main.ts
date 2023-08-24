@@ -108,7 +108,7 @@ function Stop () {
     0
     )
 }
-basic.showIcon(IconNames.SmallHeart)
+basic.showIcon(IconNames.Yes)
 radio.setGroup(123)
 basic.forever(function () {
 	
